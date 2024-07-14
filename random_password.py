@@ -56,6 +56,3 @@ copyButton = Button(root, text='Copy', font=Font, command=copy_to_clipboard)
 copyButton.grid(pady=5)
 
 root.mainloop()
-
-
-_?b"gMI7G
